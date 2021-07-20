@@ -1,0 +1,5 @@
+name: CustomArmor
+api: 3.0.0
+main: refaltor\CustomItems\Main
+author: refaltor
+version: 1.0.0

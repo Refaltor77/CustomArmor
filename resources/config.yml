@@ -1,0 +1,10 @@
+---
+add:
+  armor_test:
+    id: 1000
+    type: armor # armor | item
+    armor: helmet # helmet | chestplate | leggings | boots
+    durability: 1000
+    defense: 6
+    name: "armor test"
+...
